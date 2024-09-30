@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, software development, telegram bot development, machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on trader bots
-- 📫 How to reach me :  Telegram :@Anonymous1985 Instagram : python_learning_lessons
+  
 
 
 <!---
